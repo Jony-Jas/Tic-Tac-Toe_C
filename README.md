@@ -7,3 +7,5 @@ The object of Tic Tac Toe is to get three in a row. You play on a three by three
 
 ### How to Run
 Just copy the code and run with any c compiler.
+
+![2211](https://user-images.githubusercontent.com/74784363/110284907-78d12c00-8008-11eb-956f-f023124142a9.PNG)
